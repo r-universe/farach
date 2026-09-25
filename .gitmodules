@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "foundryR"]
+	path = foundryR
+	url = https://github.com/farach/foundryr
 [submodule "huggingfaceR"]
 	path = huggingfaceR
 	url = https://github.com/farach/huggingfacer
